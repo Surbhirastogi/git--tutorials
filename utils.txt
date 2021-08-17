@@ -1,2 +1,2 @@
-utility fuction for version 1.
+utility fuction for version 2.
 hello!
